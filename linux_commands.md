@@ -16,7 +16,7 @@ cd <directory_path>
 cd /home/user
 ```
 **Output:**  
-![Output of cd command](images/cd_cdtouch.png)
+![Output of cd command](images/cdtouch.png)
 
 ---
 
@@ -31,7 +31,7 @@ touch <filename>
 touch example.txt
 ```
 **Output:**  
-![Output of touch command](images/cd_cdtouch.png)
+![Output of touch command](images/cdtouch.png)
 
 ---
 
@@ -57,7 +57,7 @@ cp file1.txt file2.txt
 df -h
 ```
 **Output:**  
-![Output of df -h command](images/df-h.png)
+![Output of echo command](images/df-h.png)
 
 ---
 
@@ -84,7 +84,7 @@ echo "Hello, World!"
 ls
 ```
 **Output:**  
-![Output of ls command](images/mkdir-ls.png)
+![Output of ls command](images/mkdir_ls.png)
 
 ## 7. `ls -l`
 **Description:** The `ls -l` command lists directory contents in a long format, showing details like permissions, owner, and file size.  
@@ -119,7 +119,7 @@ mkdir <directory_name>
 mkdir new_folder
 ```
 **Output:**  
-![Output of mkdir command](images/mkdir-ls.png)
+![Output of mkdir command](images/mkdir_ls.png)
 
 ---
 
